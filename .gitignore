@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller / Build
+build/
+dist/
+
+# Local configuration / IP caching
+.device_ip
+
+# OS generated files
+.DS_Store
+
+# Downloaded files
+sndcpy.apk
